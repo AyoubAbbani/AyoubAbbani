@@ -9,6 +9,6 @@
 
 #### 💬 feel free to reach out to me for speaking inquiries,questions or even comments in abbaniayoub@gmail.com ...
 
-#####for me to be successful it's not about the level of intelligence you have but instead, it's about the speed that you adapt for the change
+##### for me to be successful it's not about the level of intelligence you have but instead, it's about the speed that you adapt for the change
 
 
