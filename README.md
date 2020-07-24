@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 <!---->
 
-### 🔭 I'm currently an engineering student Specialized in Mechatronics
+### 🔭 I'm an engineering student Specialized in Mechatronics
 #### Motivated, Passionate about Electronics & Embedded Software Development, Fully interested in everything related to automotive /Robotics and AI.
-#### I'm currently workingon Real-time Development for an Underwater drones
+#### I'm Currently working on Real-time Development for an Underwater drones
 ## Projects
 #### - Autonomous Rc Car based on AI
 #### - IoT based Facial Recognition Door Access Control based on the RaspberyPi
@@ -12,7 +12,7 @@
 #### - Modeling and Simulation of an electric actuator
 
 
-#### here is my linkedin profile https://www.linkedin.com/in/ayoub-abbani 
+#### Here is my linkedin profile https://www.linkedin.com/in/ayoub-abbani 
 
 #### 💬 feel free to reach out to me for speaking inquiries,questions or even comments in abbaniayoub@gmail.com ...
 
