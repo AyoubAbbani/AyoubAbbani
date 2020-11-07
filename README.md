@@ -2,26 +2,29 @@
 
 <!---->
 # About me
+
 #### 💪 Workout | 📘 Books | 🚀 Tecnology |
+
+# Facts
+#### I'm Abbani Ayoub, Motivated, Passionate about Electronics & Embedded Software Development, Fully interested in everything related to automotive /Robotics/IoT and AI.
 #### 🔭 I'm an engineering student Specialized in Mechatronics
-#### Motivated, Passionate about Electronics & Embedded Software Development, Fully interested in everything related to automotive /Robotics and AI.
 #### I'm Currently working on Real-time Development for an Underwater drones
 
 
 
 # ⚡ Technologies
 
-#### - Programming Languages C, C++, Python, Assembly, Java
-#### - Microcontrollers AVR, PIC, STM32, ESP8266
-#### - Microprocessors BeagleBone Black, Raspberry Pi
-#### - Protocols SPI, I2C, CAN, UART, Ethernet, USB
-#### - Prototyping and Simulation tools MATLAB, Simulink, Labview, Proteus, 
-#### - CAD Design tools CATIA V5, SOLIDWORKS 
-#### - Control Systems Dynamic Systems, Digital and Continuous Control, Robust Control, PID Algorithm, Robotics
-#### - Signal Processing Discrete and Continuous Signals, PWM, ADC, DAC, Fourier/Laplace/Z Transform
-#### - Internet of Things  Wifi, ZigBee, Bluetooth
-#### - Artificial Intelligence Neural Networks, Image Recognition, OpenCV, Machine Learning
-#### - Operating Systems Embedded Linux, Shell Script, FreeRTOS, Yocto Project, BuildRoot, ROS
+#### - Programming Languages : C, C++, Python, Assembly, Java
+#### - Microcontrollers : AVR, PIC, STM32, ESP8266
+#### - Microprocessors  : BeagleBone Black, Raspberry Pi
+#### - Protocols        : SPI, I2C, CAN, UART, Ethernet, USB
+#### - Prototyping and Simulation tools  : MATLAB, Simulink, Labview, Proteus, 
+#### - CAD Design tools : CATIA V5, SOLIDWORKS 
+#### - Control Systems  : Dynamic Systems, Digital and Continuous Control, Robust Control, PID Algorithm, Robotics
+#### - Signal Processing: Discrete and Continuous Signals, PWM, ADC, DAC, Fourier/Laplace/Z Transform
+#### - IoT              :  Wifi, ZigBee, Bluetooth
+#### - AI               : Neural Networks, Image Recognition, OpenCV, Machine Learning
+#### - Operating Systems: Embedded Linux , Shell Script, FreeRTOS, BuildRoot, ROS
 
 
 
