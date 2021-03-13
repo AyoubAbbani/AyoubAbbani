@@ -3,7 +3,7 @@
 <!---->
 # About me
 
-#### 💪 Workout | 📘 Books | 🚀 Tecnology |
+####  Gaming| 📘 Tech Books | 🚀 Tecnology |
 
 # Facts
 #### I'm Abbani Ayoub, Motivated, Passionate about Electronics & Embedded Software Development, Fully interested in everything related to automotive /Robotics/IoT and AI.
