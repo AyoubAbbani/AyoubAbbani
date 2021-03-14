@@ -8,7 +8,7 @@
 # Facts
 #### I'm Abbani Ayoub, Motivated, Passionate about Electronics & Embedded Software Development, Fully interested in everything related to automotive /Robotics/IoT and AI.
 #### 🔭 I'm an engineering student Specialized in Mechatronics
-#### I'm Currently working on Real-time Development for an Underwater drones
+#### I'm Currently working on Automotive Hardware-in-the-Loop (HIL) Test Automation within Stellantis ( Ex PSA Groupe)
 
 
 
@@ -20,7 +20,7 @@
 #### - Protocols        : SPI, I2C, CAN, UART, Ethernet, USB
 #### - Prototyping and Simulation tools  : MATLAB, Simulink, Labview, Proteus, 
 #### - CAD Design tools : CATIA V5, SOLIDWORKS 
-#### - Control Systems  : Dynamic Systems, Digital and Continuous Control, Robust Control, PID Algorithm, Robotics
+#### - Control Systems  : Dynamic Systems, Digital and Continuous Control, PID , Robotics
 #### - Signal Processing: Discrete and Continuous Signals, PWM, ADC, DAC, Fourier/Laplace/Z Transform
 #### - IoT              :  Wifi, ZigBee, Bluetooth
 #### - AI               : Neural Networks, Image Recognition, OpenCV, Machine Learning
