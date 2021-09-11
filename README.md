@@ -8,7 +8,7 @@
 # Facts
 #### I'm Abbani Ayoub, Motivated, Passionate about Technologies, Fully interested in everything related to automotive /Robotics/IoT and AI.
 #### 🔭 I'm a Mechatronics Engineer
-#### I'm Currently working on Automotive Hardware-in-the-Loop (HIL) Test Engineer within Stellantis ( Ex PSA Groupe)
+#### I'm Currently working as an Embedded Software Test & Validation Engineer within Stellantis  
 
 
 
