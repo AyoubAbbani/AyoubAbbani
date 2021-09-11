@@ -6,9 +6,9 @@
 ####  Gaming| 📘 Tech Books | 🚀 Tecnology |
 
 # Facts
-#### I'm Abbani Ayoub, Motivated, Passionate about Electronics & Embedded Software Development, Fully interested in everything related to automotive /Robotics/IoT and AI.
-#### 🔭 I'm an engineering student Specialized in Mechatronics
-#### I'm Currently working on Automotive Hardware-in-the-Loop (HIL) Test Automation within Stellantis ( Ex PSA Groupe)
+#### I'm Abbani Ayoub, Motivated, Passionate about Technologies, Fully interested in everything related to automotive /Robotics/IoT and AI.
+#### 🔭 I'm a Mechatronics Engineer
+#### I'm Currently working on Automotive Hardware-in-the-Loop (HIL) Test Engineer within Stellantis ( Ex PSA Groupe)
 
 
 
