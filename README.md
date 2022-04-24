@@ -42,6 +42,13 @@
 #### - Modeling and Simulation of an electric actuator
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubabbani&show_icons=true&locale=en&layout=compact" alt="ayoubabbani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubabbani&show_icons=true&locale=en" alt="ayoubabbani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbani&" alt="ayoubabbani" /></p>
+
+
 #### Here is my linkedin profile https://www.linkedin.com/in/ayoub-abbani 
 
 #### 💬 feel free to reach out to me for speaking inquiries,questions or even comments in abbaniayoub@gmail.com ...
